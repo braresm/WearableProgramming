@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">DataLayer</string>
+    <string name="wearable_api_unavailable">The Wearable API is not available on this device</string>
+</resources>
